@@ -5288,7 +5288,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W10.16mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 205.74 74.93 0)
 			(effects
 				(font
@@ -6146,7 +6146,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W10.16mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 106.68 115.57 0)
 			(effects
 				(font
@@ -6983,7 +6983,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W10.16mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 242.57 68.58 0)
 			(effects
 				(font
@@ -8110,7 +8110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W10.16mm_LongPads"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 195.58 135.89 0)
 			(effects
 				(font
