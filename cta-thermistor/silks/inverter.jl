@@ -20,7 +20,7 @@ md"""
 """
 
 # ╔═╡ 6a5c2faa-9076-441f-8138-3d526ef594ec
-img = load("back-2.png")
+img = load("copper.png")
 
 # ╔═╡ c9fd0e37-297d-4f5f-9525-94b0c0dbe009
 md"""
@@ -70,7 +70,7 @@ md"""
 """
 
 # ╔═╡ 9006257e-a317-4fd3-ae2e-440ff2322b22
-save("back-2-inv.png", img1)
+save("copper-inv.png", img1)
 
 # ╔═╡ 844d5f9d-8501-4e75-9cce-2dda8c00a607
 img[100,100].alpha
