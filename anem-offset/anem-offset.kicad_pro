@@ -188,10 +188,9 @@
       ],
       "track_widths": [
         0.0,
-        0.6,
+        0.7,
         1.0,
-        1.5,
-        2.0
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -225,8 +224,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 2.0,
-          "drill": 1.0
+          "diameter": 1.6,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false
@@ -472,7 +471,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "cta-thermistor.kicad_pro",
+    "filename": "anem-offset.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -632,7 +631,7 @@
   },
   "sheets": [
     [
-      "7a963fac-eea9-4b85-bd2d-15a31cef2a16",
+      "79379f2a-a106-4201-8f39-bcf6d9aeade1",
       "Root"
     ]
   ],
